@@ -1,0 +1,14 @@
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\bin\Debug\net8.0\Lab2.exe
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\bin\Debug\net8.0\Lab2.deps.json
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\bin\Debug\net8.0\Lab2.dll
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\bin\Debug\net8.0\Lab2.pdb
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\obj\Debug\net8.0\Lab2.dll
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\obj\Debug\net8.0\Lab2.pdb
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Lab2\Lab2\obj\Debug\net8.0\ref\Lab2.dll
